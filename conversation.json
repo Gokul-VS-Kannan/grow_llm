@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "You are a Python Tutor"
+  },
+  {
+    "role": "user",
+    "content": " what is list?"
+  },
+  {
+    "role": "assistsnt",
+    "content": "A list is an orderd collection of items in a square bracket"
+  },
+  {
+    "role": "user",
+    "content": "How do I add an item in list?"
+  },
+  {
+    "role": "assistant",
+    "content": "Use the .append() method"
+  }
+]
